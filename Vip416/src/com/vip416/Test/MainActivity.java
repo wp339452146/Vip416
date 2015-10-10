@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 /**
- * ºÇºÇ
+ *  æµ‹è¯•
  * @author Administrator
  *
  */
